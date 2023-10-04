@@ -1,7 +1,7 @@
 # Code-examples
 Examples of code from various past research projects
 
-This project contains scripts associated with analysis from various publications
+This project contains scripts associated with analysis from various publications.
 
 Ziv 2013: Ziv, N., M. L. Siegal, and D. Gresham. “Genetic and Nongenetic Determinants of Cell Growth Variation Assessed by High-Throughput Microscopy.” Molecular Biology and Evolution 30, no. 12 (December 1, 2013): 2568–78. https://doi.org/10.1093/molbev/mst138.
 
@@ -13,3 +13,5 @@ Data and scripts used for analysis are available through the Open Science Framew
 
 Lohse 2023: Lohse, Matthew B., Matthew T. Laurie, Sophia Levan, Naomi Ziv, Craig L. Ennis, Clarissa J. Nobile, Joseph DeRisi, and Alexander D. Johnson. “Broad Susceptibility of Candida Auris Strains to 8-Hydroxyquinolines and Mechanisms of Resistance.” MBio, July 26, 2023, e01376-23. https://doi.org/10.1128/mbio.01376-23.
 
+Microcolony support: This folder contains support documentation for a high-throughput microcolony growth assay described in: Levy, Sasha F., Naomi Ziv, and Mark L. Siegal. “Bet Hedging in Yeast by Heterogeneous, Age-Correlated Expression of a Stress Protectant.” PLoS Biology 10, no. 5 (May 8, 2012): e1001325. https://doi.org/10.1371/journal.pbio.1001325.
+  
