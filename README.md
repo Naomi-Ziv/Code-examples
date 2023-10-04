@@ -11,6 +11,8 @@ Data and scripts used for analysis are available through the Open Science Framew
 Ziv 2022: Ziv, Naomi, Lucas R. Brenes, and Alexander Johnson. “Multiple Molecular Events Underlie Stochastic Switching between 2 Heritable Cell States in Fungi.” PLoS Biology 20, no. 5 (May 20, 2022): e3001657. https://doi.org/10.1371/journal.pbio.3001657.
 Data and scripts used for analysis are available through the Open Science Framework, DOI: 10.17605/OSF.IO/6E9VZ (https://osf.io/6e9vz/).
 
+Lohse 2020: Lohse, Matthew B., Lucas R. Brenes, Naomi Ziv, Michael B. Winter, Charles S. Craik, and Alexander D. Johnson. “An Opaque Cell-Specific Expression Program of Secreted Proteases and Transporters Allows Cell-Type Cooperation in Candida Albicans.” Genetics, August 24, 2020, genetics.303613.2020. https://doi.org/10.1534/genetics.120.303613.
+
 Lohse 2023: Lohse, Matthew B., Matthew T. Laurie, Sophia Levan, Naomi Ziv, Craig L. Ennis, Clarissa J. Nobile, Joseph DeRisi, and Alexander D. Johnson. “Broad Susceptibility of Candida Auris Strains to 8-Hydroxyquinolines and Mechanisms of Resistance.” MBio, July 26, 2023, e01376-23. https://doi.org/10.1128/mbio.01376-23.
 
 Microcolony support: This folder contains support documentation for a high-throughput microcolony growth assay described in: Levy, Sasha F., Naomi Ziv, and Mark L. Siegal. “Bet Hedging in Yeast by Heterogeneous, Age-Correlated Expression of a Stress Protectant.” PLoS Biology 10, no. 5 (May 8, 2012): e1001325. https://doi.org/10.1371/journal.pbio.1001325.
